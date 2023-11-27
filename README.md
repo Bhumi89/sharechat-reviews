@@ -1,1 +1,3 @@
-# sharechat-reviews
+PROBLEM STATEMENT
+The primary objective is to conduct an emotional analysis of this subset of negative reviews, gaining insights into the overall emotions expressed by users. Additionally, attention will be directed towards reviews containing the keywords "issue" or "problem" and where emotions such as "anger" or "fear" are present. This targeted approach aims to identify specific pain points and challenges faced by users, providing actionable insights for the company to make strategic improvements to the ShareChat mobile application.
+The problem statement underscores the need to harness customer sentiments, especially the discontent expressed in negative reviews, to enhance the functionality and user experience of the ShareChat app. The focus on emotions and specific keywords allows for a nuanced understanding of user concerns, paving the way for effective problem resolution and continuous enhancement of the application.
